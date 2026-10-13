@@ -19,9 +19,7 @@ Versioning](https://semver.org/spec/v2.0.0.html).
 -->
 
 
-## [0.1.1-wip]
-
-## [0.1.0] - 2026-10-13
+## [0.1.0-wip] - unreleased
 
 ### Added
 - Starting placeholder
